@@ -19,7 +19,7 @@ A security-first, ultra-fast static-site CMS for foreign trade. One-command inst
 ## 1. System Requirements
 
 Before you begin, ensure your server meets the following requirements:
-*   **OS**: **Debian 12** or **Debian 13** (Fresh install recommended). *We do not support Ubuntu or Debian 11 yet.*
+*   **OS**: **Debian 13** (Fresh install recommended). *We do not support Ubuntu or Debian 11 yet.*
 *   **Access**: Root access (`sudo`).
 *   **Network**: A domain name pointed to your server's IP (for automatic SSL).
 *   **Ports**: TCP 80 and 443 must be open in your firewall/security group.
