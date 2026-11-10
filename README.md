@@ -323,4 +323,4 @@ sudo systemctl restart php8.4-fpm nginx fofw-watch.path
 
 ## 8. 许可
 
-MIT.
+MIT. 我们还提供服务器租用，代运营的技术支持，咨询微信号1921753
